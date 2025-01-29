@@ -1,5 +1,4 @@
 {
-  "name": "John Does",
-  "age": 29,
-  "rank": "A"
+  "title": "Hey User!",
+  "subtitle": "Welcome to this small app",
 }
